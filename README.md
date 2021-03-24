@@ -39,6 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![](https://im3.ezgif.com/tmp/ezgif-3-8ca274224e1d.gif)
 ![](https://im3.ezgif.com/tmp/ezgif-3-1cf0f2340daf.gif)
 ![](https://im3.ezgif.com/tmp/ezgif-3-e034831e3946.gif)
